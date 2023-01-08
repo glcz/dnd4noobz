@@ -1,0 +1,165 @@
+# Aide de jeu
+
+:
+
+{{note
+##### Lexique
+
+**Attaque d'opportunité.** Vous pouvez réaliser une attaque d'opportunité quand une créature hostile que vous pouvez voir sort de votre zone d'allonge.
+
+**Modificateur.** Tout ce qui est précédé d'un + ou d'un -. Ajouté ou soustrait à un lancer de dé (souvent un d20).
+
+**MJ.** Maître du Jeu. Ses décisions ne sont pas discutables, à moins de souhaiter voir une météorite de *très* près.
+
+**Repos court.** Dure au moins 1 heure. Il est possible de lancer un ou plusieurs dés de vie pour se soigner.
+
+**Repos long.** Dure au moins 8 heures. Le personnage retrouve tous ses points de vie à l'issue de ce repos, ainsi que la moitié de ses dés de vie au maximum.
+
+}}
+
+:
+
+## Règles de base
+
+### Déroulement d'un combat
+**Jet d'initiative.** Pour déterminer l'ordre dans lequel chacun va jouer, les joueurs font un jet d'initiative. Le MJ le fait également pour chaque créature adverse.
+
+**Votre tour.** Vous pouvez vous déplacer *et* entreprendre une action. Choisissez si vous réalisez en premier l'action ou le mouvement, ou un seul.
+
+**Fin du round.** Lorsque tout le monde a joué, on recommence au début. Chaque round équivaut à six secondes dans le jeu.
+
+### Jet de caractéristique
+Pour effectuer une action, le MJ peut vous demander un jet de caractéristique. Vous lancez un d20 et y ajoutez le modificateur correspond à la caractéristique demandée.
+
+Cela fonctionne de la même manière pour les jets de sauvegarde et de compétence.
+
+### Avantage et désavantage
+Selon les circonstances, le MJ peut vous demander de tenter votre action avec avantage ou désavantage. Vous lancez deux fois le d20. Sur un avantage, vous gardez le meilleur des deux jets ; sur un désavantage, ce sera le moins bon.
+
+### Encercler un ennemi
+Si vous êtes au corps à corps avec un opposant et qu'un allié vous rejoint, vous obtenez tous les deux l'avantage sur vos jets d'attaque.
+
+### Réussite et échec critique
+Au jet d'attaque, un 1 rate automatiquement et un 20 touche automatiquement, peu importe le CA ou les modificateurs. Réussites et échecs critiques ne concernent pas les jets de caractéristique ni de sauvegarde.
+
+:
+
+## Actions en combat
+
+### Attaquer
+Vous lancez un d20 auquel vous ajoutez le modificateur correspondant (ici +3), c'est le jet d'attaque. Si vous touchez, vous lancez le dé correspondant à votre arme (ici un d6) auquel vous ajoutez le modificateur correspondant (ici +1), c'est le jet de dégâts.
+
+![image1](https://i.ibb.co/XDtT8mG/Capture-arme.png){padding:6px}
+
+### Lancer un sort
+Les sorts dépensent un emplacement du niveau correspondant, sauf pour les sorts mineurs. Ici, le personnage peut lancer trois sorts de niveau 1 et doit effectuer un repos long pour les récupérer.
+
+![image1](https://i.ibb.co/P9HdN0z/Capture-sorts.png){padding:6px}
+
+Certaines classes choisissent chaque jour un nombre limité de sorts à utiliser (ici 4 sorts). D'autres les mémorisent définitivement (la case est donc vide).
+
+Votre cible peut résister si elle fait un jet de sauvegarde égal ou supérieur à votre DD de sort (ici 13). Certains sorts vous demandent d'ajouter un modificateur (ici +5) pour le jet d'attaque.
+
+![image1](https://i.ibb.co/1QmrjcB/Capture-sorts2.png){width:300px;padding:6px}
+
+### Autres
+
+**Aider.** La créature que vous aidez a l'avantage au prochain jet de dé qu'elle fera pour accomplir la tâche pour laquelle vous l'aidez, à condition que le jet soit effectué avant votre prochain tour.
+
+**Esquiver.** Jusqu'à votre prochain tour, chaque attaque contre vous à un désavantage si vous voyez l'attaquant, et vos jets de sauvegarde de Dextérité ont l'avantage.
+
+**Foncer.** Vous gagnez un mouvement supplémentaire pour le tour en cours.
+
+**Se cacher.** Vous devez faire un jet de Discrétion.
+
+**Se désengager.** Votre mouvement ne provoque pas d'attaques d'opportunité pour le reste du tour.
+
+**Se tenir prêt.** Vous permet d'utiliser votre réaction avant votre prochain tour. Vous décidez quelle circonstance *perceptible* la déclenchera, puis choisissez votre action ou un déplacement bonus.
+
+**Autres actions.** Chercher, Utiliser un objet.
+
+{{pageNumber 1}}
+{{footnote Aide de jeu / Fiche de personnage | v1.1}}
+
+\page
+
+# Fiche de personnage
+
+![image1](https://i.ibb.co/rMwSZGR/fiche.png){width:320px;margin-bottom:5px;margin-top:5px}
+
+### 1. Les caractéristiques
+
+Voir "Jet de caractéristique" sur l'autre feuillet. On utilise seulement le modificateur (+2, par exemple).
+
+### 2. L'inspiration
+
+Le MJ peut vous donner de l'inspiration que vous pouvez utiliser pour obtenir l'avantage à un jet de dé.
+
+### 3. Le bonus de maîtrise
+
+Intégré dans vos modificateurs, ou à ajouter lorsque vous utilisez un outil que vous maîtrisez (voir 17).
+
+### 4. Le jet de sauvegarde
+
+Utilisés pour résister à un sort, à un poison... À ne pas confondre avec les jets de caractéristiques.
+
+### 5. Les compétences
+
+Une compétence représente un aspect spécifique d'une caractéristique, par exemple Dextérité (Discrétion).
+
+### 6. La Classe d'Armure
+
+Votre aptitude à éviter les coups. Un jet d'attaque vous touche s'il est égal ou supérieur à votre CA.
+
+::
+
+### 7. L'initiative
+
+Voir "Déroulement d'un combat". Vous devez ajouter ce modificateur à votre jet d'initiative.
+
+### 8. La vitesse
+
+En combat, vous pouvez avancer d'une distance inférieure ou égale à votre vitesse.
+
+### 9. Les points de vie
+
+On les regagne en se faisant soigner ou avec des dés de vie. Voir "Les jets contre la mort" quand ils arrivent à 0.
+
+### 10. Points de vie temporaires
+
+Certains sorts et capacités confèrent des points de vie temporaires. Ils sont perdus en premier en combat.
+
+### 11. Les dés de vie
+
+Utilisés pour regagner des points de vie lors de repos courts. On en regagne la moitié avec un repos long.
+
+### 12. Les jets contre la mort
+
+À 0 points de vie, lancez un d20. S'il est supérieur ou égal à 10, vous réussissez. Au troisième succès, vous êtes stabilisé. Au troisième échec, vous êtes mort.
+
+### 13. Les armes
+
+Voir "Attaquer". Indique le modificateur du jet d'attaque, les dégâts pour chaque arme, et autres.
+
+### 14. Mon personnage
+
+Respecter sa personnalité, ses idéaux, ses peurs... Est un bon moyen de gagner de l'inspiration.
+
+### 15. Capacités
+
+Acquis grâce à la race, la classe et l'historique de votre personnage. 
+
+### 16. La perception passive
+
+Utilisée par le MJ pour déterminer si vous remarquez quelque chose sans faire attention, sans chercher.
+
+### 17. Maîtrises et langues
+
+Indique les langues que vous parlez et les outils que vous maîtrisez (voir "Le bonus de maîtrise").
+
+### 18. L'équipement
+
+Tenez-lez à jour au fur et à mesure de l'aventure pour vous rappeler des objets qui vous ont été confiés.
+
+{{pageNumber 2}}
+{{footnote Aide de jeu / Fiche de personnage | v1.1}}
